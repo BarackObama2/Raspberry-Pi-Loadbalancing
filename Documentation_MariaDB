@@ -1,0 +1,4 @@
+Zugriff auf MariaDB:
+sudo mysql --user=root --password=Start2019
+Nutzer:admin 
+Passwort: admin
